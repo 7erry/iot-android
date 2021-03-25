@@ -1,6 +1,5 @@
 # [Hazelcast IOT Client for Android](https://hazelcast.com/use-cases/internet-of-things/)
 
-[![Get it on Google Play](http://www.tananaev.com/badges/google-play.svg)](https://play.google.com/store/apps/details?id=org.traccar.client) [![Get it on F-Droid](http://www.tananaev.com/badges/f-droid.svg)](https://f-droid.org/repository/browse/?fdid=org.traccar.client)
 
 ## Overview
 
